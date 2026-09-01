@@ -41,6 +41,12 @@ configuration:
         highlight: "rgba(244, 114, 182, 0.15)"
         textHighlight: "#f472b644"
 plugins:
+  - source: github:quartz-community/footer
+    enabled: true
+    options:
+      links:
+        "GitHub Repo": "https://github.com/unoless/cardinal-docs"
+        "uNoless": "https://github.com/unoless"
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
