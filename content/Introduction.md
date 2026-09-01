@@ -10,3 +10,5 @@
 ### Рекомендуется к посещению → [[Templates]]
 
 - В этом разделе будут шаблоны, интеграции с telegram и тд
+
+### > Исходный код документации: [unoless/cardinal-docs](https://github.com/unoless/cardinal-docs)
