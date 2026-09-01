@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: ru-RU
-  baseUrl: localhost
+  baseUrl: "unoless.github.io/cardinal-docs"
   ignorePatterns:
     - private
     - templates
