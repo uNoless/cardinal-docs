@@ -46,6 +46,7 @@ export default (() => {
 	<title>{title}</title>
     	<meta charSet="utf-8" />
     	<meta name="google-site-verification" content="72dOvf_JOC8wikopYbvUJg7Z7VdpYXCilYGDWgBrTX8" />
+	<meta name="yandex-verification" content="0a460cbb4e611e57" />
     	{coreStylesheet && <link rel="preload" href={coreStylesheet} as="style" />}
         {coreScript && coreScript.contentType === "external" && (
           <link rel="preload" href={coreScript.src} as="script" />
